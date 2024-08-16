@@ -6,6 +6,7 @@ Welcome to the repository that is set to become the most committed repository on
 This repository is built with the primary aim of achieving the highest number of commits on GitHub. Initially, Python will be our main language of choice due to its simplicity, versatility, and strong community support. However, we are open to incorporating other languages and things as the project evolves.
 
 
+
 ## Latest Releases
 - [2M Completed](https://github.com/teamkrope/kommit/releases/2M)
 - [1M Completed](https://github.com/teamkrope/kommit/releases/1M)
