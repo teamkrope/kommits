@@ -33,4 +33,4 @@ For any queries or further information, feel free to reach out to us at:
 - Website: [www.teamkrope.com](https://www.teamkrope.com/)
 
 ---
-© Team Krope All rights reserved. Created with ❤️ by Team Krope.
+Copyright © 2025 Kommits. Powered by [Team Krope](https://www.teamkrope.com/).
