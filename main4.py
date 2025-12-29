@@ -2,7 +2,7 @@ import random
 import time
 import git
 
-file_name = "random_key_v4.r"
+file_name = "random_key.py"
 
 def create_and_commit_random_code(commit_number, total_commits):
     random_code = ''.join(random.choice('0123456789ABCDEF') for _ in range(8))
